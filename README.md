@@ -7,13 +7,13 @@ How to Run:
 python vector1.py
 
 A menu will show as shown bellow:
-
 INITIALIZING VECTORS ...
+
 ============================================================
-==      Welcome to the 600.466 Vector-based IR Engine
-==
-==      Total Documents: 3204
-==      Total Queries: 33
+      Welcome to the 600.466 Vector-based IR Engine
+
+      Total Documents: 3204
+      Total Queries: 33
 ============================================================
 
 OPTIONS:
