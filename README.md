@@ -1,7 +1,5 @@
 # Vector-Models
 
-Ye Chan Kim
-
 Vector Models for Information Retrieval
 
 How to Run:
